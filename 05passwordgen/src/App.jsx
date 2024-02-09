@@ -12,7 +12,7 @@ function App() {
     let pass = '';
     let num = '1234567890';
     let sym = '~!@#$%^&*,.';
-
+ 
     if(numberAllowed)
     str += num;
     if(charAllowed)
